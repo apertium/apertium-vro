@@ -4,6 +4,8 @@ Multichar_Symbols
 
 %{e%}
 %{a%}
+%{u%}
+%{ö%}
 
 LEXICON Root 
 
@@ -15,6 +17,7 @@ Digits ;
 LEXICON Dict 
 
 päävä:pä%{e%}v%{a%} Alpha "weight: 0.5" ; 
+tüü:t%{ö%}%{ö%} Alpha "weight: 0.5" ; 
 
 LEXICON AlphaLoop 
 

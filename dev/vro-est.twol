@@ -2,7 +2,7 @@ Alphabet
 
  a b c d e f g h i j k l m n o p q:0 r s š t u v w õ ä ö ü x y z ž %':i 
 
- %{e%}:e %{a%}:a
+ %{e%}:e %{a%}:a %{u%}:u %{ö%}:ö
 
  %, %. %: %; %! 
 
