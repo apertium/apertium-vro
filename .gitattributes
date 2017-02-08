@@ -1,0 +1,5 @@
+* text=auto !eol
+dev/Makefile -text
+dev/vro-est.lexc -text
+dev/vro-est.sh -text
+dev/vro-est.twol -text
